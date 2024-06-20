@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1718883564 source:g:\repos\assignment_compilation_spring_2023\main.c
+	"AssignmentComilation.h"
+
+1718883377 g:\repos\assignment_compilation_spring_2023\assignmentcompilation.c
+	<ctype.h>
+	<time.h>
+	"Money.h"
+
+1680484042 g:\repos\assignment_compilation_spring_2023\money.h
+	<stdbool.h>
+	"Dogs.h"
+
+1680485023 g:\repos\assignment_compilation_spring_2023\dogs.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1718883377 source:g:\repos\assignment_compilation_spring_2023\assignmentcompilation.c
+	<ctype.h>
+	<time.h>
+	"Money.h"
+
+1718883833 g:\repos\assignment_compilation_spring_2023\assignmentcomilation.h
+	<ctype.h>
+	<time.h>
+	"Money.h"
+
